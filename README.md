@@ -8,4 +8,4 @@ To take a picture, the user should allow camera access. To get the location, the
 To get the address, this app uses reverse geolocation. Please set an API key in the `/util/location.js` file.
 
 
-<img src="https://github.com/JoaoPLF/ReactNative-FavoriteLocation/blob/master/place.gif" height="33%" width="33%" />
+<img src="https://github.com/JoaoPLF/ReactNative-FavoritePlace/blob/master/place.gif" height="33%" width="33%" />
